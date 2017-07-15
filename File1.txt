@@ -1,5 +1,3 @@
 This is a sample Document
 
 Alpha Branch
-
-New commit
